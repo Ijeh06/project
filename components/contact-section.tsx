@@ -91,7 +91,7 @@ export function ContactSection() {
                 <MapPin className="h-6 w-6 text-primary mt-1" />
                 <div>
                   <h3 className="font-medium mb-1">Location</h3>
-                  <p className="text-muted-foreground">San Francisco, CA</p>
+                  <p className="text-muted-foreground">Lagos Nigeria, NG</p>
                 </div>
               </CardContent>
             </Card>

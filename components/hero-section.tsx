@@ -69,7 +69,7 @@ export function HeroSection() {
               className="rounded-full" 
               size="lg"
             >
-              <a href="" download>
+              <a href="/Ekene resume.pdf" download>
               <Download className="mr-2 h-4 w-4" /> Download CV
               </a>
             </Button>
