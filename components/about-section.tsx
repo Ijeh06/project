@@ -47,7 +47,7 @@ export function AboutSection() {
             </div>
             
             <p className="text-muted-foreground">
-              Hello! I'm Ekene, a passionate frontend developer with over 5 years of 
+              Hello! I&apos;m Ekene, a passionate frontend developer with over 5 years of 
               experience creating beautiful, functional Websites. I specialize 
               in React, Next.js, and UI/UX design, with a strong focus on creating 
               intuitive and engaging user experiences.
@@ -55,8 +55,8 @@ export function AboutSection() {
             
             <p className="text-muted-foreground">
               My journey in web development began during college when I built my first 
-              website for a local business. Since then, I've worked with startups and 
-              established companies to bring their digital visions to life. I'm constantly 
+              website for a local business. Since then, I&apos;ve worked with startups and 
+              established companies to bring their digital visions to life. I&apos;m constantly 
               learning and experimenting with new technologies to stay at the forefront 
               of web development.
             </p>
