@@ -32,7 +32,7 @@ export function SkillsSection() {
             "text-muted-foreground transition-all duration-1000 delay-200 ease-out",
             inView ? "translate-y-0 opacity-100" : "translate-y-12 opacity-0"
           )}>
-            I've gained expertise in various technologies throughout my career. Here's an overview of my technical skills.
+            I&apos;ve gained expertise in various technologies throughout my career. Here&apos;s an overview of my technical skills.
           </p>
         </div>
 
