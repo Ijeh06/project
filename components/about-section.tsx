@@ -25,14 +25,14 @@ export function AboutSection() {
             <div className="relative">
               <div className="relative h-[450px] w-full rounded-lg overflow-hidden">
                 <Image 
-                  src="https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg" 
+                  src="/my-photo.jpg" 
                   alt="Ijeh Ekene" 
                   fill
                   className="object-cover"
                 />
               </div>
               <div className="absolute -bottom-6 -right-6 h-24 w-24 bg-primary rounded-full flex items-center justify-center">
-                <span className="text-primary-foreground font-bold">5+ Years</span>
+                <span className="text-primary-foreground font-bold">3+ Years</span>
               </div>
             </div>
           </div>
@@ -47,19 +47,17 @@ export function AboutSection() {
             </div>
             
             <p className="text-muted-foreground">
-              Hello! I&apos;m Ekene, a passionate frontend developer with over 5 years of 
+              Hello! I&apos;m Ekene, a passionate frontend developer with over 3 years of 
               experience creating beautiful, functional Websites. I specialize 
               in React, Next.js, and UI/UX design, with a strong focus on creating 
               intuitive and engaging user experiences.
             </p>
             
             <p className="text-muted-foreground">
-              My journey in web development began during college when I built my first 
-              website for a local business. Since then, I&apos;ve worked with startups and 
-              established companies to bring their digital visions to life. I&apos;m constantly 
-              learning and experimenting with new technologies to stay at the forefront 
-              of web development.
-            </p>
+              I love turning complex problems into simple, beautiful, and 
+              intuitive designs. I believe that great design is not just about 
+              aesthetics, but also about creating a seamless user experience.
+            </p>  
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mt-8">
               <Card className="bg-card/50 backdrop-blur-sm border-primary/20 hover:border-primary/50 transition-colors">
