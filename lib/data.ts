@@ -45,7 +45,7 @@ export const PROJECTS: Project[] = [
     id: 5,
     title: "School-Result Management System",
     description: "A Result management platform with personalized recommendations for different User, Eg. Amin-Dashboard, Parent-Dashboard and Student-Dashboard.",
-    image: "https://images.pexels.com/photos/6770579/pexels-photo-6770579.jpeg",
+    image: "/puff.png",
     technologies: ["Next.js", "Node.js", "Prisma",],
     category: "Web App",
     demoUrl: "https://resultsystem-iota.vercel.app",

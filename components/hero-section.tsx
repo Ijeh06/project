@@ -36,7 +36,7 @@ export function HeroSection() {
               </span>
             </h1>
             <p className="text-2xl md:text-3xl text-muted-foreground mb-6">
-              Frontend Developer & UI Designer
+              Frontend Developer | UI Designer &nbsp;Computer Engineering Student
             </p>
           </div>
 
