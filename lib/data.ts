@@ -14,7 +14,7 @@ export const PROJECTS: Project[] = [
   {
     id: 2,
     title: "Custom School Website",
-    description: "A comprehensive dashboard for tracking personal finances, investments, and budget planning.",
+    description: "A comprehensive dashboard for School-Curriculum, investments, and Admission.",
     image: "https://images.pexels.com/photos/7681096/pexels-photo-7681096.jpeg",
     technologies: ["HTML", "JavaScript", "CSS", "Material UI"],
     category: "Web App",

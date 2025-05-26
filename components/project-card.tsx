@@ -47,7 +47,7 @@ export function ProjectCard({ project, index, inView }: ProjectCardProps) {
             {project.demoUrl && (
               <Button size="sm" className="rounded-full" asChild>
                 <a
-                  href={"https://johnson-college--portal.vercel.app"}
+                  href={project.demoUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -58,7 +58,7 @@ export function ProjectCard({ project, index, inView }: ProjectCardProps) {
             {project.githubUrl && (
               <Button size="sm" variant="outline" className="rounded-full" asChild>
                 <a
-                  href={"https://github.com/ijeh06/student-harmony-portal"}
+                  href={project.githubUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
